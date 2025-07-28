@@ -1,0 +1,1 @@
+"""nConfiguration module for the Sports Incident Analyzer.n"""nnfrom .settings import Settingsnfrom .config_manager import ConfigManagernn__all__ = [n    "Settings",n    "ConfigManager",n]
